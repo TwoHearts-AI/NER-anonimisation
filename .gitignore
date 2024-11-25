@@ -1,3 +1,5 @@
+.idea
+
 # Ignore all DS_Store files in any folder
 **/.DS_Store
 
