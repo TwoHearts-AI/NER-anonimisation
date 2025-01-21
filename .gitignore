@@ -6,6 +6,8 @@
 # Ignore any .env files in any folder
 **/.env
 
+.idea
+
 # Ignore any __pycache__ folders in any folder
 **/__pycache__/
 
